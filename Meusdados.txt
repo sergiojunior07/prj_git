@@ -1,3 +1,4 @@
 RA:920113640
 Nome: Sergio Junior
-Curso: Sistema de informação
+Data de nascimento: 07 de fevereiro
+email: sergiodion02@gmail.com
